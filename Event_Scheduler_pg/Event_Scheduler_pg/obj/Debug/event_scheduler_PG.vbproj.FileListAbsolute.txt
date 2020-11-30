@@ -1,0 +1,12 @@
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\bin\Debug\event_scheduler_PG.exe.config
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\obj\Debug\event_scheduler_PG.vbprojResolveAssemblyReference.cache
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\obj\Debug\event_scheduler_pg.Resources.resources
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\obj\Debug\event_scheduler_pg.ProjectInstaller.resources
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\obj\Debug\event_scheduler_pg.event_scheduler_PG.resources
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\obj\Debug\event_scheduler_PG.vbproj.GenerateResource.Cache
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\obj\Debug\event_scheduler_PG.xml
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\bin\Debug\event_scheduler_PG.exe
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\bin\Debug\event_scheduler_PG.pdb
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\bin\Debug\event_scheduler_PG.xml
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\obj\Debug\event_scheduler_PG.exe
+C:\Omegacube_ERP\Services\STD\PostgreSql\Event_Scheduler_pg\Event_Scheduler_pg\obj\Debug\event_scheduler_PG.pdb

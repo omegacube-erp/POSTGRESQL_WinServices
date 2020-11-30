@@ -1,0 +1,16 @@
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\bin\Debug\MessageQueue_PG.exe.config
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_pg.Resources.resources
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_pg.ProjectInstaller.resources
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_PG.vbproj.GenerateResource.Cache
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_PG.xml
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\bin\Debug\MessageQueue_PG.exe
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\bin\Debug\MessageQueue_PG.pdb
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\bin\Debug\MessageQueue_PG.xml
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_PG.exe
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_PG.pdb
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_pg.EDGEMessageQueue_PG.resources
+C:\Omegacube_ERP\Services\STD\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_PG.vbprojResolveAssemblyReference.cache
+C:\Omegacube_ERP\Services\STD\PostgreSql\MessageQueue_New_pg\MessageQueue_pg\bin\Debug\MessageQueue_PG.exe.config
+C:\Omegacube_ERP\Services\STD\PostgreSql\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_PG.exe
+C:\Omegacube_ERP\Services\STD\PostgreSql\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_PG.xml
+C:\Omegacube_ERP\Services\STD\PostgreSql\MessageQueue_New_pg\MessageQueue_pg\obj\Debug\MessageQueue_PG.pdb

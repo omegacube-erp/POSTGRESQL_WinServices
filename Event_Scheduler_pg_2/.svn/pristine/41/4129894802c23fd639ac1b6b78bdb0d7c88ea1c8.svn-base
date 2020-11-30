@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <!-- Schema1 -->
+    <add key="Server1" value="omegaweb" />
+    <add key="User1" value="EDGEDEV" />
+    <add key="Pwd1" value="EDGEDEV" />
+    <!-- Schema2 -->
+    <add key="Server2" value="omegaweb" />
+    <add key="User2" value="demo" />
+    <add key="Pwd2" value="demo" />
+    <!-- Schema3 -->
+    <add key="Server3" value="omegaweb" />
+    <add key="User3" value="pmt" />
+    <add key="Pwd3" value="pmt" />
+    <!-- Schema4 -->
+    <add key="Server4" value="" />
+    <add key="User4" value="" />
+    <add key="Pwd4" value="" />
+    <!-- Schema5 -->
+    <add key="Server5" value="" />
+    <add key="User5" value="" />
+    <add key="Pwd5" value="" />
+    <!-- Schema6 -->
+    <add key="Server6" value="" />
+    <add key="User6" value="" />
+    <add key="Pwd6" value="" />
+    <!-- Schema7 -->
+    <add key="Server7" value="" />
+    <add key="User7" value="" />
+    <add key="Pwd7" value="" />
+    <!-- Schema8 -->
+    <add key="Server8" value="" />
+    <add key="User8" value="" />
+    <add key="Pwd8" value="" />
+    <!-- Schema9 -->
+    <add key="Server9" value="" />
+    <add key="User9" value="" />
+    <add key="Pwd9" value="" />
+    <!-- Schema10 -->
+    <add key="Server10" value="" />
+    <add key="User10" value="" />
+    <add key="Pwd10" value="" />
+    <add key="NoOfSchemas" value="10" />
+    <add key="Hours" value="21" />
+    <add key="Mins" value="00" />
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+  </appSettings>
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" />
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400" />
+      </providers>
+    </roleManager>
+  </system.web>
+</configuration>

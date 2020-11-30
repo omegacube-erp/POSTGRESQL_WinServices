@@ -1,0 +1,33 @@
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\obj\Debug\Edge_EmailService.csprojResolveAssemblyReference.cache
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\obj\Debug\Edge_EmailService.Edge_EmailService.resources
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\obj\Debug\Edge_EmailService.ProjectInstaller.resources
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\obj\Debug\Edge_EmailService.csproj.GenerateResource.Cache
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\bin\Debug\Edge_EmailService.exe.config
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\bin\Debug\Edge_EmailService.exe
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\bin\Debug\Edge_EmailService.pdb
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\bin\Debug\Symmetric.dll
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\obj\Debug\Edge_EmailService.exe
+C:\MURALI DEPLOYMENTS\Edge_EmailService\Edge_EmailService\obj\Debug\Edge_EmailService.pdb
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\bin\Debug\Edge_EmailService.exe.config
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\bin\Debug\Edge_EmailService.exe
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\bin\Debug\Edge_EmailService.pdb
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\bin\Debug\Symmetric.dll
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.csprojResolveAssemblyReference.cache
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.Edge_EmailService.resources
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.ProjectInstaller.resources
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.csproj.GenerateResource.Cache
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.exe
+C:\MURALI DEPLOYMENTS\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.pdb
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1\Edge_EmailService\bin\Debug\Edge_EmailService.exe.config
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1\Edge_EmailService\bin\Debug\Edge_EmailService.exe
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1\Edge_EmailService\bin\Debug\Edge_EmailService.pdb
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.csprojResolveAssemblyReference.cache
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.Edge_EmailService.resources
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.ProjectInstaller.resources
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.csproj.GenerateResource.Cache
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.exe
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1\Edge_EmailService\obj\Debug\Edge_EmailService.pdb
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1_PG\Edge_EmailService_pg\obj\Debug\Edge_EmailService.csprojResolveAssemblyReference.cache
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1_PG\Edge_EmailService_pg\obj\Debug\Edge_EmailService_pg.Edge_EmailService.resources
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1_PG\Edge_EmailService_pg\obj\Debug\Edge_EmailService_pg.ProjectInstaller.resources
+C:\Omegacube_ERP\Services\STD\Edge_EmailService1_PG\Edge_EmailService_pg\obj\Debug\Edge_EmailService.csproj.GenerateResource.Cache
